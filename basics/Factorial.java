@@ -13,6 +13,8 @@ public class Factorial
             f=f*x;
         }
         System.out.println("The factorial of "+ n + " is: "+f);
+    br.close();
+
     }
     
 }

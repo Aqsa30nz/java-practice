@@ -15,6 +15,7 @@ public class Even
             System.out.println(x);
            }
         }
+        br.close();
     }
     
 }

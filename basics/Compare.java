@@ -18,6 +18,7 @@ public class Compare
         {
             System.out.println(b+" is greater than "+a);
         }
+        br.close();
       }
     }
 
