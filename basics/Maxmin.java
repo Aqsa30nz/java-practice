@@ -17,7 +17,7 @@ class Maxmin
         int max = findMax(a);
         System.out.println("the maximum no found is :"+ max);
         int min = findMin(a);
-        System.out.println("The minimum mo found is :"+min);
+        System.out.println("The minimum no found is :"+min);
 
         br.close();
     }
